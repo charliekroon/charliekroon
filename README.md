@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋 I am Charlie
+
+### I am a Software Engineer with a background in journalism, literature and marketing. 
+I am dedicated to developing and optimizing user-friendly and feature-rich platforms. Experienced in developing web applications with Javascript, Typescript, React, and React-Redux. Back-end with Ruby, Ruby on Rails, and Node.js (Express, NestJS, PostgreSQL).
+
+#### 👩‍🎓 I am currently learning more about how to work with Web3 and its ecosystem.
+
+#### In my free time I enjoy working out, learning new things, travelling, and spending time at the beach 🏖️.  
+
+Feel free to reach out! [LinkedIn](https://www.linkedin.com/in/charliekroon/)   
+
 
 <!--
 **charliekroon/charliekroon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

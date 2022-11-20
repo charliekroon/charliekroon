@@ -1,13 +1,12 @@
-# Hi there 👋 I am Charlie
+# Hihihihihihi 👋 
 
-### I am a Software Engineer with a background in journalism, literature and marketing. 
-I am dedicated to developing and optimizing user-friendly and feature-rich platforms. Experienced in developing web applications with Javascript, Typescript, React, and React-Redux. Back-end with Ruby, Ruby on Rails, and Node.js (Express, NestJS, PostgreSQL).
+### I am Charlie. I am a Software Engineer with a background in Journalism. 
 
-#### 👩‍🎓 I am currently learning more about how to work with Web3 and its ecosystem.
+I make cool, feature-rich and user-friendly things at HackerOne. I love writing, learning and creating. 
 
-#### In my free time I enjoy working out, learning new things, travelling, and spending time at the beach 🏖️.  
+You can keep tabs on what I'm thinking about, via [Medium](https://medium.com/@charliekroon)
 
-Feel free to reach out! [LinkedIn](https://www.linkedin.com/in/charliekroon/)   
+Wanna chat? [LinkedIn](https://www.linkedin.com/in/charliekroon/)   
 
 
 <!--

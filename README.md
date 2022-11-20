@@ -4,7 +4,7 @@
 
 I make cool, feature-rich and user-friendly things at HackerOne. I love writing, learning and creating. 
 
-You can keep tabs on what I'm thinking about, via [Medium](https://medium.com/@charliekroon)
+You can keep tabs on what I'm thinking about via [Medium](https://medium.com/@charliekroon)
 
 Wanna chat? [LinkedIn](https://www.linkedin.com/in/charliekroon/)   
 

@@ -2,7 +2,7 @@
 
 ### I am Charlie. I am a Software Engineer with a background in Journalism. 
 
-I make cool, feature-rich and user-friendly things at HackerOne. I love writing, learning and creating. 
+I make cool, feature-rich and user-friendly things at GitLab. I love writing, learning and creating. 
 
 You can keep tabs on what I'm thinking about via [Medium](https://medium.com/@charliekroon)
 
